@@ -1,7 +1,7 @@
 <h1>I build end-to-end software applications & implement AI 🦾🦿</h1>
 
 <p>
-  Hi! I'm Vishal and I'm a full-stack developer who builds end-to-end software applications for various companies (including e-commerce stores, software companies & consultants).
+  Hi! I'm a full-stack developer who builds end-to-end software applications for various companies (including e-commerce stores, software companies & consultants).
   <br/>
   I usually work with a small team of 4 people (including my brother and two other developers) who fill in my technical gaps.
 </p>
