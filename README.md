@@ -27,3 +27,5 @@
   <li><a href='https://triolingo-co-uk-3c93ad00e464.herokuapp.com/'>Triolingo</a> - this is an app I built to help me learn Mandarin. It leverages OpenAI's GPT API to randomly generate complex Mandarin sentences.</li>
   <li>I'll show you more on a call!</li>
 </ul>
+
+<a href='https://calendly.com/vujis/call'><button>Book a Call with Me</button></a>
