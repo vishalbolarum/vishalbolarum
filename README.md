@@ -1,6 +1,4 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="./index.css">
-</head>
+<link rel="stylesheet" type="text/css" href="./index.css">
 
 <h1>I build end-to-end software & implement AI 🦾🦿</h1>
 
