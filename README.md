@@ -23,5 +23,5 @@
 <h2>Personal Projects</h2>
 
 <ul>
-  <li><a href='https://vujis.com' target="_blank">vujis.com</a></li>
+  <li><a href='https://vujis.com' target="_blank">vujis.com</a> - this is a an app I built using PostgreSQL, Express.js, React & Node.js.</li>
 </ul>
