@@ -23,5 +23,5 @@
 <h2>Personal Projects</h2>
 
 <ul>
-  <li><a href='https://vujis.com' target="_blank">vujis.com</a> - this is a an app I built using PostgreSQL, Express.js, React & Node.js.</li>
+  <li><a href='https://vujis.com' target="_blank">vujis.com</a> - this is a an app I built using PostgreSQL, Express.js, React & Node.js. If a company is looking to buy a specific commodity (e.g. rice, sugar), they can post a job on the platform and find a supplier. It is not live because we didn't want to pursue the idea and it was expensive to host. However, I have it available in development.</li>
 </ul>
