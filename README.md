@@ -6,3 +6,4 @@
   I usually work with a small team of 4 people (including my brother and two other developers) who fill in my technical gaps.
 </p>
 
+<h2>Technical Stack</h2>
