@@ -7,3 +7,5 @@
 </p>
 
 <h2>Technical Stack</h2>
+
+<img src='./react.png'/>
