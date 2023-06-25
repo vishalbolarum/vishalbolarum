@@ -13,3 +13,15 @@
   <li>SQL - PostgreSQL, MySQL, SQLite</li>
   <li>APIs - OpenAI</li>
 </ul>
+
+<h2>Paid Projects</h2>
+
+<ul>
+  <li></li>
+</ul>
+
+<h2>Personal Projects</h2>
+
+<ul>
+  <li><a href='https://vujis.com'>vujis.com</a></li>
+</ul>
