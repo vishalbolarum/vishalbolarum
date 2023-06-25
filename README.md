@@ -1,4 +1,4 @@
-<h1>🦿Full Stack Developer & AI Specialist🦿</h1>
+<h1>Full Stack Developer & AI Specialist 🦾🦿</h1>
 
 <!--
 **vishalbolarum/vishalbolarum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
