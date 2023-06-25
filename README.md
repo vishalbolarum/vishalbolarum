@@ -10,4 +10,9 @@
 
 <h2>Technical Stack</h2>
 
-<img src='./react.png'/>
+<ul>
+  <li>JavaScript - React, Node.js</li>
+  <li>Python - Django, Flask, Beautiful Soup</li>
+  <li>SQL - PostgreSQL, MySQL, SQLite</li>
+  <li>APIs - OpenAI</li>
+</ul>
