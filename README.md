@@ -28,4 +28,4 @@
   <li>I'll show you more on a call!</li>
 </ul>
 
-<a href='https://calendly.com/vujis/call'><button>Book a Call with Me</button></a>
+<a href='https://calendly.com/vujis/call'><h1>Book a Call with Me</h1></a>
