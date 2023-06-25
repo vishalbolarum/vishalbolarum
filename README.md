@@ -24,4 +24,5 @@
 
 <ul>
   <li><a href='https://vujis.com' target="_blank">vujis.com</a> - this is a an app I built using PostgreSQL, Express.js, React & Node.js. If a company is looking to buy a specific commodity (e.g. rice, sugar), they can post a job on the platform and find a supplier. It is not live because we didn't want to pursue the idea and it was expensive to host. However, I have it available in development.</li>
+  <li><a href='https://triolingo-co-uk-3c93ad00e464.herokuapp.com/'>Triolingo</a> - this is an app I built to help me learn Mandarin. It leverages OpenAI's GPT API to randomly generate complex Mandarin sentences.</li>
 </ul>
