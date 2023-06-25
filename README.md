@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" type="text/css" href="index.css">
+  <link rel="stylesheet" type="text/css" href="./index.css">
 </head>
 
 <h1>I build end-to-end software & implement AI 🦾🦿</h1>
