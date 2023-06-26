@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="./index.css">
 
-<h1>I Build End-to-End Software & Harness AI 🦾🦿</h1>
+<h1>Full Stack Developer & AI Specialist 🦾🦿</h1>
 
 <a href='https://calendly.com/vujis/call'><button>Book a Call with Me</button></a>
 
