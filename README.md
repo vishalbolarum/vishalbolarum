@@ -20,6 +20,7 @@
 
 <ul>
   <li><a href='https://gopanoptic.com'>gopanoptic.com</a></li>
+  <li><a href='https://arhantayoga.org'>arhantayoga.org</a> - our team developed the AI chatbot on their site.</li>
 </ul>
 
 <h2>Personal Projects</h2>
