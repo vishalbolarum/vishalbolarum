@@ -18,10 +18,4 @@
 
 <h2>Paid Projects</h2>
 
-<ul>
-  <li><a href='https://gopanoptic.com'>gopanoptic.com</a></li>
-  <li><a href='https://vujis.com' target="_blank">vujis.com</a> - this is a an app I built using PostgreSQL, Express.js, React & Node.js. If a company is looking to buy a specific commodity (e.g. rice, sugar), they can post a job on the platform and find a supplier. It is not live because we didn't want to pursue the idea and it was expensive to host. However, I have it available in development.</li>
-  <li><a href='https://trupul.com' target="_blank">trupul.com</a> - this is an app I built to help me learn Mandarin. It leverages OpenAI's GPT API to randomly generate complex Mandarin sentences.</li>
-  <li>I'll show you more on a call!</li>
-  <li><a href='https://arhantayoga.org'>arhantayoga.org</a> - our team developed the AI chatbot on their site.</li>
-</ul>
+<p>You can find a list of my paid projects at <a href='https://kyroc.co.uk/projects'>kyroc.co.uk</a>.</p>
