@@ -18,4 +18,4 @@
 
 <h2>Paid Projects</h2>
 
-<p>You can find a list of my paid projects at <a href='https://kyroc.co.uk/projects'>kyroc.co.uk</a>.</p>
+<p>You can find a list of my paid projects at <a href='https://kyroc.co.uk/projects' target='_blank'>kyroc.co.uk</a>.</p>
